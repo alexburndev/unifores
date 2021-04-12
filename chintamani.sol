@@ -6,7 +6,7 @@ Developer Alex Burn.
 "Чинтамани ( ChintaMani ) ...Этот камень известен разным культурам. 
 В буддизме он носит имя «Чинтамани» – «Драгоценный камень мысли» и символизирует 
 духовные сокровища, которыми способен овладеть просветленный ум...
-github https://github.com/alexburndev/gcg/blob/master/cit_with_reward.sol
+github https://github.com/alexburndev/unifores/blob/main/chintamani.sol
 */
 
 library Address {
